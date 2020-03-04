@@ -3,7 +3,7 @@ The introduction to programming workshop, hosted by Albert and Jayden for UTS Pr
 
 
 ## Further Reading
-* [Python overview](https://www.tutorialspoint.com/python/python_quick_guide.html)
+* [Python overview](https://www.tutorialspoint.com/python3/python_overview.htm)
 * [Handling exceptions](https://realpython.com/python-exceptions/), when your code finds (un)expected edge cases
 * [Advanced loop design](http://archives.evergreen.edu/webpages/curricular/2001-2002/dsa01/loops.html) Computer Science deep dive into loop design logic
 * [Download link for VirtualEnvWrapper](https://pypi.org/project/virtualenvwrapper-win/) a tool for managing virtual Python instances in Windows (great for messing around or assingments)
